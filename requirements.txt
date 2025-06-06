@@ -1,0 +1,8 @@
+python-telegram-bot
+proxmoxer
+python-dotenv
+matplotlib
+psutil
+speedtest-cli
+requests
+python-telegram-bot[job-queue]
